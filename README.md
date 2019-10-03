@@ -1,2 +1,3 @@
-# pollket.github.io
-Web application for Pollket 
+# Pollket
+
+### Marketing tool made for political campaigns.
